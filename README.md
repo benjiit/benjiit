@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benjiit
+👋 Hi, I’m @benjiit
 I am a Mechanical Engineer with a Bachelors Degree from Clemson University trying to improve the world by focusing on sustainable practices in my personal and professional life.
 I enjoy the prospect of working with new technologies, such as VR and 3D printing, and getting a chance to improve them further.
 I am proficient in multiple computer programming languages such as C++ and Python. I also am very well versed in design software such as SolidWorks and similar CAD.
