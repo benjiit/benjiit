@@ -1,10 +1,9 @@
 👋 Hi, I’m @benjiit
 -
-I am a Mechanical Engineer with a Bachelors Degree from Clemson University trying to improve the world by focusing on sustainable practices in my personal and professional life.
-I enjoy the prospect of working with new technologies, such as VR and 3D printing, and getting a chance to improve them further.
-I am proficient in multiple computer programming languages such as C++ and Python. I also am very well versed in design software such as SolidWorks and similar CAD.
+I am a Mechanical Engineer with a Bachelor's Degree from Clemson University, dedicated to improving the world through sustainable practices in both my personal and professional life. I am passionate about working with emerging technologies such as VR and 3D printing and continuously seek opportunities to enhance and innovate within these fields.
 
-In addition to my pursuits in the engineering field, I have begun honing my 3D design and programming skills through a Masters of Science in Digital Production Arts.
-In this program, I am able to optimize the use of my free time to develop my personal and professional interests in Digital Productions.
+Although I am proficient in multiple programming languages, including C++ and Python, I excel in using design software such as SolidWorks and other CAD tools. I have extensive experience collaborating with CAD through data management systems like PDM, PLM, Windchill, and 3DExperience.
 
-I work very well in a team environment and thrive in a setting where finding creative and innovative solutions is a daily challenge.
+Currently, I am advancing my 3D design and programming skills through a Master of Science in Digital Production Arts. This program allows me to effectively utilize my free time to further develop my interests in digital productions.
+
+I excel in team environments and thrive on the challenge of finding creative and innovative solutions.
